@@ -4,3 +4,4 @@
 This implementation is part of my Bachelor's Thesis at University of Applied Sciences Technikum Vienna (Fachhochschule Technikum Wien).
 
 It was developed with STM32CubeIDE.
+SSD1351-library from https://github.com/Gecko05/SSD1351-Driver-Library commit 8538333 was modified within this project.
