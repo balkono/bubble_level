@@ -1,5 +1,5 @@
 # bubble_level
-2-dimensional bubble level display via SSD1351 and ICM42688 running on FreeRTOS on STM32
+2-dimensional bubble level implementing cascaded complementary filter for sensor fusion via ICM42688 and SSD1351 running on FreeRTOS on STM32
 
 This implementation is part of my Bachelor's Thesis at University of Applied Sciences Technikum Vienna (Fachhochschule Technikum Wien).
 
